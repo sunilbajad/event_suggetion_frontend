@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } catch (error) {
             console.error('Error:', error);
-            addMessageToChat('assistant', 'Sorry, I encountered an error. Please try again.');
+            // addMessageToChat('assistant', 'Sorry, I encountered an error. Please try again.');
         }
     }
 
